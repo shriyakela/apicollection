@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "a8657da9-e267-4710-a5c2-9f6aae30333e",
+		"name": "WineQualityPred",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36537542"
+	},
+	"item": [
+		{
+			"name": "pred",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Invalid File Upload",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "no file upload",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
