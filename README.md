@@ -8,14 +8,16 @@ This Flask project provides an API for predicting wine quality based on certain 
    ```bash
    git clone  https://github.com/shriyakela/apicollection.git
    cd flask-project
+## Run
+Install the necessary dependencies with pip install -r requirements.txt, then run the Flask application using python app.py. 
 
-   API Endpoints
+  ## API Endpoints
 Predict Wine Quality
 URL: /api/predict_wine_quality
 Method: POST
 Description: Upload a CSV file to predict wine quality.
 
-Request Body
+## Request Body
 csv_file (file): The CSV file containing wine features.
 Example Request (Postman)
 Open Postman.
