@@ -1,6 +1,9 @@
 # Wine Quality Prediction Flask API
 
-This Flask project provides an API for predicting wine quality based on certain features using a pre-trained Random Forest model.
+This Flask project provides an API for predicting wine quality based on certain features using a Random Forest model.
+## Prerequisites
+- Python 3.8
+
 
 ## Setup
 
